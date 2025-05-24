@@ -1,6 +1,6 @@
 # 帳票 UDP明朝 (FORM UDPMincho)
 
-**モリサワ [BIZ UDP明朝](https://github.com/googlefonts/morisawa-biz-ud-mincho) (Version 1.60) の「1」と「１（全角）」の幅のみを変更し、数字（0〜9）を等幅にしたフォントです（※）。** 
+**モリサワ [BIZ UDP明朝](https://github.com/googlefonts/morisawa-biz-ud-mincho) (Version 1.06) の「1」と「１（全角）」の幅のみを変更し、数字（0〜9）を等幅にしたフォントです（※）。** 
 
 「[帳票 UDPゴシック](https://github.com/jz5/FORM-UDPGothic)」を作ったので、明朝も作りました。
 
